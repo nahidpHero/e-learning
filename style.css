@@ -1,0 +1,27 @@
+.banner1{
+    background-image: url(images/cover/cover-1.png);
+    width: 100%;
+    height:auto;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center;   
+  }
+  .banner2{
+    background-image: url(images/cover/cover-2.jpg);
+    width: 100%;
+    height:auto;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center;   
+  }
+  .banner3{
+    background-image: url(images/cover/cover-3.jpg);
+    width: 100%;
+    height:auto;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center;   
+  }
+  .text{
+    padding:20%;
+  }
