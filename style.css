@@ -7,7 +7,7 @@
     background-position:  center;   
   }
   .banner2{
-    background-image: url(images/cover/cover-2.jpg);
+    background-image: url(images/cover/cover-3.jpg);
     width: 100%;
     height:auto;   
     background-size: cover;
@@ -15,7 +15,7 @@
     background-position:  center;   
   }
   .banner3{
-    background-image: url(images/cover/cover-3.jpg);
+    background-image: url(images/cover/cover-2.jpg);
     width: 100%;
     height:auto;   
     background-size: cover;
@@ -28,4 +28,8 @@
   .text-width{
     width: 40%;
   }
- 
+  @media only screen and (max-width: 1200px){
+    .company-name{
+      visibility: hidden;
+    }
+}
